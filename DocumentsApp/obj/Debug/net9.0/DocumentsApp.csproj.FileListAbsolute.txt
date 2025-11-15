@@ -1,0 +1,14 @@
+d:\Python\C#\DocumentsApp\bin\Debug\net9.0\DocumentsApp.exe
+d:\Python\C#\DocumentsApp\bin\Debug\net9.0\DocumentsApp.deps.json
+d:\Python\C#\DocumentsApp\bin\Debug\net9.0\DocumentsApp.runtimeconfig.json
+d:\Python\C#\DocumentsApp\bin\Debug\net9.0\DocumentsApp.dll
+d:\Python\C#\DocumentsApp\bin\Debug\net9.0\DocumentsApp.pdb
+d:\Python\C#\DocumentsApp\obj\Debug\net9.0\DocumentsApp.GeneratedMSBuildEditorConfig.editorconfig
+d:\Python\C#\DocumentsApp\obj\Debug\net9.0\DocumentsApp.AssemblyInfoInputs.cache
+d:\Python\C#\DocumentsApp\obj\Debug\net9.0\DocumentsApp.AssemblyInfo.cs
+d:\Python\C#\DocumentsApp\obj\Debug\net9.0\DocumentsApp.csproj.CoreCompileInputs.cache
+d:\Python\C#\DocumentsApp\obj\Debug\net9.0\DocumentsApp.dll
+d:\Python\C#\DocumentsApp\obj\Debug\net9.0\refint\DocumentsApp.dll
+d:\Python\C#\DocumentsApp\obj\Debug\net9.0\DocumentsApp.pdb
+d:\Python\C#\DocumentsApp\obj\Debug\net9.0\DocumentsApp.genruntimeconfig.cache
+d:\Python\C#\DocumentsApp\obj\Debug\net9.0\ref\DocumentsApp.dll
