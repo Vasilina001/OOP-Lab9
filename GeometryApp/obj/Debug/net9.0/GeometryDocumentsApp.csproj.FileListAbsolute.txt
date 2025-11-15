@@ -1,0 +1,14 @@
+d:\Python\C#\GeometryApp\bin\Debug\net9.0\GeometryDocumentsApp.exe
+d:\Python\C#\GeometryApp\bin\Debug\net9.0\GeometryDocumentsApp.deps.json
+d:\Python\C#\GeometryApp\bin\Debug\net9.0\GeometryDocumentsApp.runtimeconfig.json
+d:\Python\C#\GeometryApp\bin\Debug\net9.0\GeometryDocumentsApp.dll
+d:\Python\C#\GeometryApp\bin\Debug\net9.0\GeometryDocumentsApp.pdb
+d:\Python\C#\GeometryApp\obj\Debug\net9.0\GeometryDocumentsApp.GeneratedMSBuildEditorConfig.editorconfig
+d:\Python\C#\GeometryApp\obj\Debug\net9.0\GeometryDocumentsApp.AssemblyInfoInputs.cache
+d:\Python\C#\GeometryApp\obj\Debug\net9.0\GeometryDocumentsApp.AssemblyInfo.cs
+d:\Python\C#\GeometryApp\obj\Debug\net9.0\GeometryDocumentsApp.csproj.CoreCompileInputs.cache
+d:\Python\C#\GeometryApp\obj\Debug\net9.0\GeometryDocumentsApp.dll
+d:\Python\C#\GeometryApp\obj\Debug\net9.0\refint\GeometryDocumentsApp.dll
+d:\Python\C#\GeometryApp\obj\Debug\net9.0\GeometryDocumentsApp.pdb
+d:\Python\C#\GeometryApp\obj\Debug\net9.0\GeometryDocumentsApp.genruntimeconfig.cache
+d:\Python\C#\GeometryApp\obj\Debug\net9.0\ref\GeometryDocumentsApp.dll
